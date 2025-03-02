@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+
+.section {
+  @apply py-8 lg:py-24 lg:h-screen flex items-center;
+}
+.text-next {
+  @apply bg-gradient-to-r text-transparent bg-clip-text from-[#ff014f] to-[#011eff] font-bold;
+}
+.bg-primary {
+  background: url("./image/mainbg.jpeg");
+  background-size: cover;
+  overflow-x: hidden;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  background: url("./image/mainbg.jpeg");
+  background-size: cover;
+  overflow-x: hidden;
+}
+.active {
+  background: linear-gradient(45deg, #ff014f 20%, #011eff 70%);
+  border-radius: 50%;
+  color: #fff;
+}
