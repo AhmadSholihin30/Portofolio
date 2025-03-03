@@ -24,7 +24,7 @@ export default function Sidebar() {
             <button onClick={() => setIsOpen(false)} className="text-gray-700 ">
               <div className="flex justify-center items-center">
                 <img
-                  src="./src/image/img1.png"
+                  src="/image/Img1.png"
                   alt="menuImage"
                   className="w-20 h-20 rounded-full object-cover bg-primary shadow-xl border-4 border-white"
                 />
