@@ -20,7 +20,7 @@ function Portofolio() {
         <div className="grid grid-cols-1 lg:grid-cols-4 gap-4 text-center ">
           <div className="w-full">
             <div className="bg-white h-full w-full justify-center items-center flex rounded-lg overflow-hidden p-5 relative group">
-              <img src="./src/image/img3.jpg" alt="" />
+              <img src="/image/img3.jpg" alt="" />
               <div className="absolute p-5 bg-transparent w-full h-full opacity-0 group-hover:opacity-100 items-center transition">
                 <div className="text-center w-full text-white mt-[60px] group-hover:mt-5 transition-all">
                   <div className="bg-white rounded-full px-5 inline-block mb-2">
@@ -32,7 +32,7 @@ function Portofolio() {
           </div>
           <div className="w-full">
             <div className="bg-white h-full w-full justify-center items-center flex rounded-lg overflow-hidden p-5 relative group">
-              <img src="./src/image/img.4.jpg" alt="" />
+              <img src="/image/img.4.jpg" alt="" />
               <div className="absolute p-5 bg-transparent w-full h-full opacity-0 group-hover:opacity-100 items-center transition">
                 <div className="text-center w-full text-white mt-[60px] group-hover:mt-5 transition-all">
                   <div className="bg-white rounded-full px-5 inline-block mb-2">
@@ -44,7 +44,7 @@ function Portofolio() {
           </div>
           <div className="w-full">
             <div className="bg-white h-full w-full justify-center items-center flex rounded-lg overflow-hidden p-5 relative group">
-              <img src="./src/image/img5.jpg" alt="" />
+              <img src="/image/img5.jpg" alt="" />
               <div className="absolute p-5 bg-transparent w-full h-full opacity-0 group-hover:opacity-100 items-center transition">
                 <div className="text-center w-full text-white mt-[60px] group-hover:mt-5 transition-all">
                   <div className="bg-white rounded-full px-5 inline-block mb-2">
@@ -56,7 +56,7 @@ function Portofolio() {
           </div>
           <div className="w-full">
             <div className="bg-white h-full w-full justify-center items-center flex rounded-lg overflow-hidden p-5 relative group">
-              <img src="./src/image/img6.png" alt="" />
+              <img src="/image/img6.png" alt="" />
               <div className="absolute p-5 bg-transparent w-full h-full opacity-0 group-hover:opacity-100 items-center transition">
                 <div className="text-center w-full text-white mt-[60px] group-hover:mt-5 transition-all">
                   <div className="bg-white rounded-full px-5 inline-block mb-2">
@@ -68,7 +68,7 @@ function Portofolio() {
           </div>
           <div className="w-full">
             <div className="bg-white h-full w-full justify-center items-center flex rounded-lg overflow-hidden p-5 relative group">
-              <img src="./src/image/img7.jpg" alt="" />
+              <img src="/image/img7.jpg" alt="" />
               <div className="absolute p-5 bg-transparent w-full h-full opacity-0 group-hover:opacity-100 items-center transition">
                 <div className="text-center w-full text-white mt-[60px] group-hover:mt-5 transition-all">
                   <div className="bg-white rounded-full px-5  inline-block mb-2">
@@ -80,7 +80,7 @@ function Portofolio() {
           </div>
           <div className="w-full">
             <div className="bg-white h-full w-full justify-center items-center flex rounded-lg overflow-hidden p-5 relative group">
-              <img src="./src/image/img8.jpg" alt="" />
+              <img src="/image/img8.jpg" alt="" />
               <div className="absolute p-5 bg-transparent w-full h-full opacity-0 group-hover:opacity-100 items-center transition">
                 <div className="text-center w-full text-white mt-[60px] group-hover:mt-5 transition-all">
                   <div className="bg-white rounded-full px-5 inline-block mb-2">
@@ -92,7 +92,7 @@ function Portofolio() {
           </div>
           <div className="w-full">
             <div className="bg-white h-full w-full justify-center items-center flex rounded-lg overflow-hidden p-5 relative group">
-              <img src="./src/image/img9.jpg" alt="" />
+              <img src="/image/img9.jpg" alt="" />
               <div className="absolute p-5 bg-transparent w-full h-full opacity-0 group-hover:opacity-100 items-center transition">
                 <div className="text-center w-full text-white mt-[60px] group-hover:mt-5 transition-all">
                   <div className="bg-white rounded-full px-5 inline-block mb-2">
@@ -104,7 +104,7 @@ function Portofolio() {
           </div>
           <div className="w-full">
             <div className="bg-white h-full w-full justify-center items-center flex rounded-lg overflow-hidden p-5 relative group">
-              <img src="./src/image/img10.jpg" alt="" />
+              <img src="/image/img10.jpg" alt="" />
               <div className="absolute p-5 bg-transparent w-full h-full opacity-0 group-hover:opacity-100 items-center transition">
                 <div className="text-center w-full text-white mt-[60px] group-hover:mt-5 transition-all">
                   <div className="bg-white rounded-full px-5 inline-block mb-2">

@@ -8,7 +8,7 @@ function Banner() {
       <div className="w-full">
         <div className="flex justify-center">
           <img
-            src="./src/image/img1.png"
+            src="/image/img1.png"
             alt=""
             className="w-80 h-80 rounded-full bg-transparent shadow-xl object-cover border-4 border-white"
           />

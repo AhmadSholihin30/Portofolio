@@ -13,7 +13,7 @@ function Profile() {
         <div className="flex flex-col lg:flex-row items-start justify-between">
           <div className="text-center w-full max-w-[400px] mx-auto mb-[50px]">
             <div className="min-w-[300px] min-h-[300px] pt-[50px] rounded-full object-cover bg-transparent shadow-2xl border-6 border-yellow-100 overflow-hidden">
-              <img src="./src/image/img2.png" alt="" />
+              <img src="/image/img2.png" alt="" />
             </div>
             <h2 className="text-next text-2xl font-bold pt-2 lg:pt-0">Ahmad Sholihin</h2>
           </div>
