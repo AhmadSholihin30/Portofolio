@@ -16,6 +16,9 @@ function Banner() {
         <div className="block text-black font-bold text-[24px] text-center mt-4">
           𝓗𝓮𝓵𝓵𝓸
         </div>
+        <h1>
+          test
+        </h1>
         <div className="text-center font-bold text2xl text-red-500 h-25">
           <TypeAnimation
             sequence={[
